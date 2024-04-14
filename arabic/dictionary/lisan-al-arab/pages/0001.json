@@ -1,0 +1,33 @@
+{
+  "entries": [
+    {
+      "root_word": "Word",
+      "meanings": [
+        {
+          "meaning": "Meaning 1",
+          "examples": [
+            "Example 1",
+            "Example 2"
+          ]
+        },
+        {
+          "meaning": "Meaning 2",
+          "examples": [
+            "Example 3",
+            "Example 4"
+          ]
+        }
+      ],
+      "derivations": [
+        {
+          "derivation": "Derivation 1",
+          "meaning": "Meaning of Derivation 1"
+        },
+        {
+          "derivation": "Derivation 2",
+          "meaning": "Meaning of Derivation 2"
+        }
+      ]
+    }
+  ]
+}
